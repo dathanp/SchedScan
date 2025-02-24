@@ -22,9 +22,10 @@ SchedScan is an iOS application designed to help users **scan and organize their
 ## 🗂️ Saved Scans
 📌 *Users can view all their saved scans within the system.*
 
-<img src="https://github.com/user-attachments/assets/3b43f8de-b107-4493-b65e-d3e8df129438" width="250">
+<img src="https://github.com/user-attachments/assets/76d1ab18-1a57-4d3c-9aa1-12167c349e10" width="250">
 
 ---
+
 
 ## ⚙️ Scan Modes
 📌 *I have added multiple scan modes for users based on different schedule formats. Some schedules include names, while others may not have dates or end times. This feature ensures flexibility for different users.*
