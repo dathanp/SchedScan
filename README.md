@@ -50,7 +50,7 @@ SchedScan is an iOS application designed to help users **scan and organize their
 
 ## 🚀 Future Enhancements
 ✅ **Improved flexability for scan modes** for schedule scanning  
-✅ **Imporving the filter and sort** for saving schedules on the device
+✅ **Imporving add to calendar** for adding to different calendar types
 
 ---
 
